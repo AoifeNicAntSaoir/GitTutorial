@@ -4,4 +4,5 @@ Sofia
 Dublin
 Copenhagen
 Cairo
-
+Cape Town
+Los Angeles
