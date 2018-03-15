@@ -1,0 +1,25 @@
+cd Desktop
+mkdir testDir
+cd testDir
+git init
+touch README.md
+touch txtFile.txt
+#add some text etc.
+ls
+git status
+git clone https://url.to.github.repo/
+git remote add origin https://url.to.github.repo/
+git add txtFile.txt | . |  * etc.
+#git rm txtFile.txt
+git commit -m "This is a commit message"
+
+#Branch
+git checkout -b myNewBranch
+To change to branch
+git checkout myNewBranch
+To list branches
+git branch
+git push origin myNewBranch
+git remote add newTestBranch https://github.com/AoifeNicAntSaoir/GitTutorial/tree/newTestBranch
+git pull origin master
+git push origin newTestBranch master
