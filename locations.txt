@@ -2,3 +2,6 @@ Malaga
 Amsterdam
 Sofia
 Dublin
+Copenhagen
+Cairo
+
